@@ -54,6 +54,7 @@ a{
   position: relative;
   width: 300px;
   float: right;
+text-align: left;
 }
 .point {
   position: relative;
