@@ -16,7 +16,7 @@ a{
 .workplan:before {
   position: absolute;
   left: 50%;
-  top: 0;
+  top: 10px;
   content: ' ';
   display: block;
   width: 6px;
